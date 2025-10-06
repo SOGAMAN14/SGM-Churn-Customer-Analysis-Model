@@ -1,0 +1,5 @@
+{
+  "name": "SGM - Customer Churn Analysis Model",
+  "description": "An intelligent web application that uses AI to analyze customer data from a CSV file, predict churn, evaluate model performance, and provide actionable business insights. Includes a feature to download the analysis as a PDF report.",
+  "requestFramePermissions": []
+}
