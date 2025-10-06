@@ -27,7 +27,7 @@ The **SGM Customer Churn Analysis Model (CCA)** is designed to answer these ques
 
 ## Key Visualizations & Reporting
 
-A primary output of the SGM CCA Model is a comprehensive, single-page PDF report that summarizes the entire analysis. This report is designed to be easily shared with stakeholders and provides a clear overview of the model's findings.
+A primary output of the SGM CCA Model is a comprehensive, single-page PDF report that summarizes the entire analysis. This report is designed to be easily shared with stakeholders and provides a clear overview of the model's findings. The analysis herein is presented relative to the established baseline of the pre-existing model.
 
 -   **[View a Sample PDF Report (SGMCCAM.pdf)](./SGMCCAM.pdf)**
 
