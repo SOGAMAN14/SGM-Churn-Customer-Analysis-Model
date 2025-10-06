@@ -1,6 +1,6 @@
 # SGM - Customer Churn Analysis Model
 
-This is an intelligent web application that uses a powerful AI model to analyze customer data from a CSV file, predict customer churn, evaluate model performance, and provide actionable business insights. The application presents the analysis in a clean dashboard and includes a feature to download the complete report as a well-formatted PDF document.
+This is an intelligent web application engineered to interpret nuanced analytical prompts via a AI model to analyze customer data from a CSV file, predict customer churn, evaluate model performance, and provide actionable business insights. The application presents the analysis in a clean dashboard and includes a feature to download the complete report as a well-formatted PDF document.
 
 ## Business Problem
 
